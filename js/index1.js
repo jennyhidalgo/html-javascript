@@ -1,4 +1,4 @@
-var num1 = 14;
-var num2 = 15;
-num1 + num2;
-console.log(num1 + num2);
+let animalName = "Dog" ,animalId = "D123";
+
+console.log(animalName, animalId);
+
